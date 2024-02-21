@@ -595,3 +595,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.21-16.04.24:021][392]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 121 classes and 0 folders.
 [2024.02.21-16.04.24:404][392]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.02.21-16.04.26:217][532]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.21-16.07.43:356][416]LogSlate: Took 0.004344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.21-16.07.46:890][578]BlueprintLog: New page: Compile BP_Ball
+[2024.02.21-16.07.46:999][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.21-16.11.23:922][323]LogEditorTransaction: Undo Change Variable Category
